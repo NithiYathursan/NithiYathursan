@@ -108,7 +108,13 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <!-- Email -->
-  <a href="mailto:nithiyathursan123@gmail.com?subject=Hello%20Yathursan&body=Hi%20Yathursan%2C%20I%27d%20like%20to%20connect%20about..." target="_blank">
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nithiyathursan123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=nithiyathursan123@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   <!-- GitHub -->
