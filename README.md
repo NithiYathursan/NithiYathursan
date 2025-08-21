@@ -2,8 +2,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=26&duration=2500&pause=800&color=000000&center=true&vCenter=true&width=800&lines=Hi%2C+I%27m+Nithianandan+Yathursan;Undergraduate+at+Sabaragamuwa+University+of+Sri+Lanka;Software+Developer+%7C+Data+Science+Student;Always+learning+new+technologies" alt="typing intro" />
 </p>
-
-
 ---
 
 # 👨‍💻 About Me  
